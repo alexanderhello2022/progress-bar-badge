@@ -1,2 +1,2 @@
-# progress-bar-badge
+# Progress Bar Badge
 A progress bar badge based on SVG
